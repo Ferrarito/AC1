@@ -1,0 +1,94 @@
+main{
+    display: flex;
+    height: 909px;
+    width: 1440px;
+    
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+   
+    margin-left: 120px;
+    margin-top: 135px;
+}
+h1{
+    display: flex;
+    width: 495px;
+    height: 43px;
+    font-family: "Lato", sans-serif;
+
+}
+p{
+    display: flex;
+    width: 487px;
+    height: 60px;
+    text-align: justify;
+    font-family: "Lato", sans-serif;
+}
+
+button{
+    display: flex;
+    margin-left: 136px;
+    margin-top: 35px;
+    width: 222px;
+    height: 66px;
+    font-size: 18px;
+    background-color: #333333;
+    color: white;
+    border-radius: 40px ;
+    border: none;
+    font-family: "Lato", sans-serif;
+    
+
+    
+}
+
+.btn{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 56px;
+}
+.redondo{
+    display: flex;
+    justify-content: space-between;
+    width: 495px;
+    height: 148px;
+    margin-top: 91px;
+}
+
+.doces{
+    display: flex;
+    
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+
+    
+
+}
+.img1{
+    margin-top: 31px;
+    margin-left: 53px;  
+      
+}
+.img2{
+
+margin-left: 48px;
+margin-top: 112px;
+
+
+
+
+}
+.img3{
+    margin-top: 48px;
+    margin-right: 48px;
+    margin-left: 55px;
+    margin-bottom: 134px;
+
+}
+.img4{
+margin-bottom: px;
+}
